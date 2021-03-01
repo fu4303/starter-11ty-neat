@@ -1,10 +1,10 @@
 ---
 items:
   - text: Projects
-    url: "#"
+    url: "/projects"
   - text: Bookmarks
-    url: "#"
+    url: "/bookmarks"
   - text: Quotes
-    url: "#"
+    url: "/quotes"
   - text: Blog
     url: "/blog"
