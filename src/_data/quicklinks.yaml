@@ -1,14 +1,17 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
+  - title: Tailwind Starter Kit
+    url: "https://estevanmaito.github.io/tailwind-starter-kit/"
+    desc: A library of components made with Tailwind CSS to bootstrap your projects
   - title: Eleventy
     url: "https://www.11ty.dev/"
     desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
+  - title: Tailblocks
+    url: "https://tailblocks.cc"
+    desc: A great library of various tailwind starters with code to copy
   - title: Tailwind CSS
     url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    desc: A utility-first CSS framework for rapidly building custom designs
+  - title: Tailwind Templates
+    url: "https://tailwindtemplates.io"
+    desc: A collection of tailwind templates to boost your development
