@@ -15,3 +15,18 @@ links:
   - title: Tailwind Templates
     url: "https://tailwindtemplates.io"
     desc: A collection of tailwind templates to boost your development
+   - title: Wicked Blocks
+    url: "https://wickedblocks.dev"
+    desc: A collection of layouts and components built with Tailwind ready to copy paste on your next project
+   - title: Heroicons
+    url: "https://heroicons.com"
+    desc: Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS
+   - title: Color Scheme Generator
+    url: "https://adevade.github.io/color-scheme-generator/"
+    desc: A great color scheme generator for tailwindcss with copy code ability
+   - title: Tailwindow
+    url: "https://color.tailwindow.com"
+    desc: Tailwind color shades generator
+   - title: Tailwind Toolbox
+    url: "https://www.tailwindtoolbox.com"
+    desc: A great collection of free tailwind CSS templates, components and resources
