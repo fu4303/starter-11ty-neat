@@ -3,9 +3,6 @@ links:
   - title: Tailwind Starter Kit
     url: "https://estevanmaito.github.io/tailwind-starter-kit/"
     desc: A library of components made with Tailwind CSS to bootstrap your projects
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
   - title: Tailblocks
     url: "https://tailblocks.cc"
     desc: A great library of various tailwind starters with code to copy
@@ -15,15 +12,6 @@ links:
   - title: Tailwind Templates
     url: "https://tailwindtemplates.io"
     desc: A collection of tailwind templates to boost your development
-  - title: Wicked Blocks
-    url: "https://wickedblocks.dev"
-    desc: A collection of layouts and components built with Tailwind ready to copy paste on your next project
-  - title: Heroicons
-    url: "https://heroicons.com"
-    desc: Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS
-  - title: Color Scheme Generator
-    url: "https://adevade.github.io/color-scheme-generator/"
-    desc: A great color scheme generator for tailwindcss with copy code ability
   - title: Tailwindow
     url: "https://color.tailwindow.com"
     desc: Tailwind color shades generator
